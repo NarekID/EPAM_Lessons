@@ -14,4 +14,5 @@ for i in range(1, 11):
 
 a = 5
 b = 15
-print(a, '+', b, '=', a + b)
+c = 100
+print(a, '+', b, '+', c, '=', a + b + c)
