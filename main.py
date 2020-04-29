@@ -16,7 +16,3 @@ a = 5
 b = 15
 c = 100
 print(f'{a} + {b} + {c} = {a + b + c}')
-
-print('Just string to delete')
-print('Test message')
-print('testing git revert')
