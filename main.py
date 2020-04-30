@@ -1,22 +1,13 @@
 print("Hello, World!")
 
-print("Test message")
-
-for i in range(10):
-  print("Hello, World!")
-
 for i in "GitHub":
   print(i, end=" ")
 print()
 
 for i in range(1, 11):
-	print(i)
+	print(i, end='-')
 
 a = 5
 b = 15
 c = 100
 print(f'{a} + {b} + {c} = {a + b + c}')
-
-print('Just string to delete')
-print('Test message')
-print('testing git revert')
