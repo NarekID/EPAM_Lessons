@@ -9,4 +9,5 @@ b = 15
 c = 100
 print(f'{a} + {b} + {c} = {a + b + c}')
 
-print('Non fast-forward merge test')
+print('Text for conflict solving lesson')
+print('Changes from master branch')
