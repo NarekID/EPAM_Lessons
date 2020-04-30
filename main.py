@@ -8,3 +8,5 @@ a = 5
 b = 15
 c = 100
 print(f'{a} + {b} + {c} = {a + b + c}')
+
+print('Non fast-forward merge test')
