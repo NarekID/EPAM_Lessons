@@ -11,4 +11,6 @@ print(f'{a} + {b} + {c} = {a + b + c}')
 print(f'{a} - {b} - {c} = {a - b - c}')
 print(f'{a} * {b} * {c} = {a * b * c}')
 print(f'{a} / {b} / {c} = {a / b / c}')
-
+print(f'{a} = {bin(a)}')
+print(f'{b} = {bin(b)}')
+print(f'{c} = {bin(c)}')
