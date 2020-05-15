@@ -1,3 +1,5 @@
+from random import randint as rnd
+
 print("Hello, World!")
 
 for i in "GitHub":
@@ -18,3 +20,4 @@ print(f'{c} = {bin(c)}')
 print(f'Message for pull request lesson')
 print(f'Some content and bugs fix here')
 
+print(rnd(0,  5))
